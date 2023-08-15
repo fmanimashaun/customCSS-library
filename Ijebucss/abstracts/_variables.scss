@@ -1,0 +1,29 @@
+// spacing
+$base-padding: 0.74rem !default;
+$base-margin: 0.75rem !default;
+
+//borders
+$base-border-thickness: 1px !default;
+$base-border-radius: 20px !default;
+
+// box-shadow
+$base-box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1) !default;
+
+// font sizes
+$base-font-size: 1rem !default;
+$font-size-sm: $base-font-size * 0.75 !default;
+$font-size-lg: $base-font-size * 1.5 !default;
+$font-size-xl: $base-font-size * 2 !default;
+$font-size-xxl: $base-font-size * 3 !default;
+
+// font weights
+$font-weight-light: 300 !default;
+$font-weight-normal: 400 !default;
+$font-weight-bold: 700 !default;
+
+
+// colors
+$color-primary: #007bff !default;
+$color-secondary: #6c757d !default;
+$color-success: #28a745 !default;
+$color-info: #17a2b8 !default;

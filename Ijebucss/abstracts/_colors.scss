@@ -1,0 +1,30 @@
+// theme colors
+$primary: #326dee !default;
+$secondary: #1ac888 !default;
+$error: #d32752 !default;
+$info: #f6c31c !default;
+$color-warning: #ffc107 !default;
+$color-danger: #dc3545 !default;
+$color-light: #f8f9fa !default;
+$color-dark: #343a40 !default;
+
+// color palette
+$colors: (
+  'primary': $primary,
+  'secondary': $secondary,
+  'error': $error,
+  'info': $info,
+  'warning': $color-warning,
+  'danger': $color-danger,
+  'light': $color-light,
+  'dark': $color-dark,
+  'blue': #1919e6,
+  'red': #e61919,
+  'yellow': #e6e619,
+  'green': #19e635,
+  'orange': #ffa600,
+  'purple': #9900ff,
+  'gray': #808080,
+  'black': black,
+  'white': white,
+);
